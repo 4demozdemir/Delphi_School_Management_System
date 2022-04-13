@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.319,=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_bolum_ekle_2.dfm=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit2.dfm=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_bolum_ekle_1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.210,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_ana.pas=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_bolum_ekle_3.dfm=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_bolum_ekle_2.pas=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit4.dfm=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\u_ders_ekle.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.329,=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_bolum_ekle_3.pas=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_ana.dfm=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit2.pas=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\U_bolum_ekle_1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\imyo_not_giris.dproj=C:\Users\Özer Kestane\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\Unit4.pas=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama\u_ders_ekle.pas</Transaction>
+    <Transaction>2019.10.31 19:22:01.171,=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\Unit6.pas</Transaction>
+    <Transaction>2019.10.31 19:23:21.405,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\U_ogrenci_ekle_1.dfm=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\Unit6.dfm</Transaction>
+    <Transaction>2019.10.31 19:23:21.405,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\U_ogrenci_ekle_1.pas=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\Unit6.pas</Transaction>
+    <Transaction>2019.10.31 20:34:26.105,=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\Unit7.pas</Transaction>
+    <Transaction>2019.10.31 20:34:55.502,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\U_ogrenci_ekle_2.pas=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\Unit7.pas</Transaction>
+    <Transaction>2019.10.31 20:34:55.502,C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\U_ogrenci_ekle_2.dfm=C:\Users\Özer Kestane\Desktop\Yaz Sil Klasör\2019-2020 Görsel 2 Uygulama - i.ö\Unit7.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

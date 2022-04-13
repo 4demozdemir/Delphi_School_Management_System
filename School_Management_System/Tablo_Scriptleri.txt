@@ -1,0 +1,102 @@
+USE [gorsel]
+GO
+/****** Object:  Table [dbo].[bolum]    Script Date: 22.11.2017 16:01:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[bolum](
+	[bnum] [tinyint] IDENTITY(1,1) NOT NULL,
+	[bad] [varchar](20) NULL,
+ CONSTRAINT [PK_bolum] PRIMARY KEY CLUSTERED 
+(
+	[bnum] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Ders]    Script Date: 22.11.2017 16:01:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Ders](
+	[derskod] [int] IDENTITY(1,1) NOT NULL,
+	[dersad] [varchar](30) NULL,
+ CONSTRAINT [PK_Ders] PRIMARY KEY CLUSTERED 
+(
+	[derskod] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[kullanici]    Script Date: 22.11.2017 16:01:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[kullanici](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[kullanici_ad] [varchar](10) NULL,
+	[sifre] [varchar](10) NULL,
+	[Tam_Ad] [varchar](30) NULL,
+	[yetki] [smallint] NULL,
+ CONSTRAINT [PK_kullanici] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Notlar]    Script Date: 22.11.2017 16:01:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Notlar](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[ogrno] [int] NULL,
+	[dersno] [int] NULL,
+	[notu] [tinyint] NULL,
+ CONSTRAINT [PK_Notlar] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[ogrenci]    Script Date: 22.11.2017 16:01:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[ogrenci](
+	[ogr_no] [int] NOT NULL,
+	[isim] [varchar](20) NULL,
+	[soyisim] [varchar](20) NULL,
+	[cinsiyet] [bit] NULL,
+	[bno] [tinyint] NULL,
+	[resim] [image] NULL,
+ CONSTRAINT [PK_ogrenci] PRIMARY KEY CLUSTERED 
+(
+	[ogr_no] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
